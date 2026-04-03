@@ -4,7 +4,6 @@ description:      Welcome to my site.
 url:              //jiyuan-tan.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
 
 # Owner/author information
 owner:
@@ -15,8 +14,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   google_scholar: nXyv100AAAAJ
   github: Jiyuan-Tan
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-52736040-1
+# Analytics: set google_analytics to your GA id when you want tracking
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
