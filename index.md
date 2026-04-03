@@ -14,3 +14,6 @@ My research sits at the intersection of causal inference and machine learning. I
 
 <br />
 During my undergraduate, I was fortunate to work with Prof. <a href = "https://web.stanford.edu/~yyye/" >Yinyu Ye </a> to develop a derivative-free solver for general nonlinear optimization problems. Our code is available <a href = "https://github.com/COPT-Public/SOLNP" >here </a>. Prior to this, I studied the zero-sum Markov game with Prof. <a href = "https://zhaoranwang.github.io/" >Zhaoran Wang </a> and <a href = "https://www.princeton.edu/~zy6/" >Zhuoran Yang </a>.
+
+<br />
+Please feel free to <a href="mailto:{{ site.owner.email }}">contact me</a> if you want to learn more!
