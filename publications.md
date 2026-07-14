@@ -55,13 +55,18 @@ Also on <a href="https://scholar.google.com/citations?user={{ site.owner.google_
     </div>
   </li>
 
+</ul>
+
+## Journal publications
+
+<ul class="pub-list">
   <li class="pub">
-    <span class="venue venue-preprint">Under<br>review</span>
+    <span class="venue">ACM TOMS<br>2024</span>
     <div>
-      <span class="pub-title">SOLNP+: A Derivative-Free Solver for Constrained Nonlinear Optimization</span>
-      <span class="pub-authors">Dongdong Ge, Tianhao Liu, Jinsong Liu, <span class="me">Jiyuan Tan</span>, Yinyu Ye* <em>(alphabetical order)</em></span>
-      <span class="pub-note">An ANSI C solver for constrained nonlinear optimization, made robust to noisy function evaluations via implicit filtering and coordinate search.</span>
-      <span class="pub-links"><a href="https://arxiv.org/abs/2210.07160" target="_blank" rel="noopener">arXiv</a><a href="https://github.com/COPT-Public/SOLNP" target="_blank" rel="noopener">Code</a></span>
+      <span class="pub-title">Algorithm 1053: SOLNP+: A Derivative-Free Solver for Constrained Nonlinear Optimization</span>
+      <span class="pub-authors">Dongdong Ge, Jinsong Liu, Tianhao Liu, <span class="me">Jiyuan Tan</span>, Yinyu Ye* <em>(alphabetical order)</em></span>
+      <span class="pub-note"><em>ACM Transactions on Mathematical Software</em>, 50(4), Article 29, 1&ndash;24. An ANSI C solver for constrained nonlinear optimization, made robust to noisy function evaluations via implicit filtering and coordinate search.</span>
+      <span class="pub-links"><a href="https://doi.org/10.1145/3699956" target="_blank" rel="noopener">Paper</a><a href="https://arxiv.org/abs/2210.07160" target="_blank" rel="noopener">arXiv</a><a href="https://github.com/COPT-Public/SOLNP_plus" target="_blank" rel="noopener">Code</a></span>
     </div>
   </li>
 </ul>

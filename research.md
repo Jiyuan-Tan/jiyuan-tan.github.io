@@ -53,6 +53,6 @@ Some questions do not belong to any of the three threads above.
 
 **Treatment effects in the tails.** [Estimation of Treatment Effects in Extreme and Unobserved Data](https://arxiv.org/abs/2506.14051) (NeurIPS 2025) asks what can be said about treatment effects in regions the data barely reach. Rather than bounding the effect, it uses extreme-value theory to extrapolate beyond the observed support, with consistency guarantees and validation on synthetic and real data.
 
-**Optimization and reinforcement learning.** Before turning to causal inference, I worked on a [homogenization approach for gradient-dominated stochastic optimization](https://arxiv.org/abs/2308.10630) (UAI 2024), the derivative-free solver [SOLNP+](https://github.com/COPT-Public/SOLNP), and [pessimistic minimax value iteration](https://arxiv.org/abs/2202.07511) (ICML 2022), which characterizes the data coverage needed to learn Nash equilibria offline.
+**Optimization and reinforcement learning.** Before turning to causal inference, I worked on a [homogenization approach for gradient-dominated stochastic optimization](https://arxiv.org/abs/2308.10630) (UAI 2024), the derivative-free solver [SOLNP+](https://github.com/COPT-Public/SOLNP_plus), and [pessimistic minimax value iteration](https://arxiv.org/abs/2202.07511) (ICML 2022), which characterizes the data coverage needed to learn Nash equilibria offline.
 
 <p><a href="{{ site.url }}/publications/">See all publications &rarr;</a></p>

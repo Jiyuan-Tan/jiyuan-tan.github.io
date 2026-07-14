@@ -29,7 +29,7 @@ I am a third-year PhD student in [Management Science and Engineering](https://ms
 
 My research asks how far we can automate causal inference — from the statistical estimator to the AI agent — without giving up the mathematical guarantees, transparency, and domain sensitivity that scientific and policy applications require. It sits at the boundary of statistics, econometrics, machine learning, and human-centered AI.
 
-Before Stanford, I studied mathematics at Fudan University. There I worked with Prof. [Yinyu Ye](https://web.stanford.edu/~yyye/) on [SOLNP+](https://github.com/COPT-Public/SOLNP), a derivative-free solver for general nonlinear optimization, and with Prof. [Zhaoran Wang](https://zhaoranwang.github.io/) and Prof. [Zhuoran Yang](https://www.princeton.edu/~zy6/) on offline learning in zero-sum Markov games.
+Before Stanford, I studied mathematics at Fudan University. There I worked with Prof. [Yinyu Ye](https://web.stanford.edu/~yyye/) on [SOLNP+](https://github.com/COPT-Public/SOLNP_plus), a derivative-free solver for general nonlinear optimization, and with Prof. [Zhaoran Wang](https://zhaoranwang.github.io/) and Prof. [Zhuoran Yang](https://www.princeton.edu/~zy6/) on offline learning in zero-sum Markov games.
 
 ## Research
 
@@ -53,12 +53,12 @@ Before Stanford, I studied mathematics at Fudan University. There I worked with 
 ## News
 
 <ul class="news">
-  <li><span class="date">May 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2605.02234">Bucketing the Good Apples</a>, a diagnostic for causal abstraction in neural networks, with Puyin Li, Ahmad Jabbar, Thomas Icard, and Atticus Geiger.</span></li>
-  <li><span class="date">Apr 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2604.12263">partial identification of policy-relevant treatment effects with instrumental variables</a>, via optimal transport.</span></li>
-  <li><span class="date">Mar 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2603.01337">adaptive estimation and inference in conditional moment models</a> using the discrepancy principle.</span></li>
-  <li><span class="date">Feb 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2602.20571">CausalReasoningBenchmark</a>, which separates causal identification from estimation when evaluating language models.</span></li>
-  <li><span class="date">Oct 2025</span><span>Talk on neural causal partial identification at the <em>INFORMS Annual Meeting</em>.</span></li>
-  <li><span class="date">Sep 2025</span><span><a href="https://arxiv.org/abs/2506.14051">Estimation of Treatment Effects in Extreme and Unobserved Data</a> was accepted at <em>NeurIPS 2025</em>.</span></li>
+  <li><span class="date">May 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2605.02234">Bucketing the Good Apples: A Method for Diagnosing and Improving Causal Abstraction</a>, with Puyin Li, Ahmad Jabbar, Thomas Icard, and Atticus Geiger.</span></li>
+  <li><span class="date">Apr 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2604.12263">Partial Identification of Policy-Relevant Treatment Effects with Instrumental Variables via Optimal Transport</a>, with Vasilis Syrgkanis and Jose Blanchet.</span></li>
+  <li><span class="date">Mar 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2603.01337">Adaptive Estimation and Inference in Conditional Moment Models via the Discrepancy Principle</a>, with Vasilis Syrgkanis.</span></li>
+  <li><span class="date">Feb 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2602.20571">CausalReasoningBenchmark: A Real-World Benchmark for Disentangled Evaluation of Causal Identification and Estimation</a>, with Ayush Sawarni and Vasilis Syrgkanis.</span></li>
+  <li><span class="date">Oct 2025</span><span>Talk on <em>Consistency of Neural Causal Partial Identification</em> at the INFORMS Annual Meeting.</span></li>
+  <li><span class="date">Sep 2025</span><span><a href="https://arxiv.org/abs/2506.14051">Estimation of Treatment Effects in Extreme and Unobserved Data</a> was accepted at NeurIPS 2025.</span></li>
   <li><span class="date">Jun 2025</span><span>Started a summer internship as a Data Scientist at LinkedIn, working on long-term treatment effects with debiased machine learning.</span></li>
 </ul>
 

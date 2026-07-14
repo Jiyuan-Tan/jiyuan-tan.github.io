@@ -234,6 +234,20 @@ hr {
    Page shell: sidebar + article
    -------------------------------------------------------------------------- */
 
+/* The theme clears floats with a `display: table` :before/:after on these
+   containers. Once they become grid/flex containers those pseudo-elements turn
+   into grid/flex ITEMS: the empty :before claimed the sidebar column and pushed
+   the article into the next row (a ~210px-wide strip). Remove them. */
+#main:before,
+#main:after,
+.navigation-wrapper:before,
+.navigation-wrapper:after,
+.footer-wrap footer:before,
+.footer-wrap footer:after {
+  display: none !important;
+  content: none !important;
+}
+
 #main {
   display: grid;
   grid-template-columns: 210px minmax(0, 1fr);
