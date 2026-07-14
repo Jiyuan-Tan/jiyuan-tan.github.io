@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="page">
+<body class="page{% if page.hero %} has-hero{% endif %}">
 
 {% include _browser-upgrade.html %}
 
@@ -35,7 +35,7 @@
     {% include _author-bio.html %}
   </div>
   <article>
-    <h1>{{ page.title }}</h1>
+    {% unless page.hero %}<h1>{{ page.title }}</h1>{% endunless %}
     <div class="article-wrap">
       {{ content }}
     </div><!-- /.article-wrap -->

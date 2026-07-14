@@ -1,42 +1,59 @@
 ---
 layout: page
 permalink: /photos/
-title: My Photos
+title: Photos
+description: "Photos from Jiyuan Tan's travels and academic life."
 tags: [photo]
-modified: 4-2-2026
+modified: 7-14-2026
 comments: false
 image:
-  feature: whitetank.png
+  feature: flowership.png
 ---
-Here are some photos of me.
+
+Life outside the theorems. Click any photo to enlarge.
+
+## Travel
+
+<figure class="photo">
+  <a href="{{ site.url }}/images/rainbow-mountain-peru.jpg"><img src="{{ site.url }}/images/rainbow-mountain-peru.jpg" alt="Jiyuan Tan at Rainbow Mountain, Peru"></a>
+  <figcaption>At Rainbow Mountain (Vinicunca), Peru &mdash; about 5,000 m above sea level.</figcaption>
+</figure>
 
 ## Yau Contest
-Me with Prof. Yau：
-![yau1](/images/Photos/yau1.jpg)
 
-The awarding ceremony of Yau Contest:
-![yau2](/images/Photos/yau2.jpg)
+<figure class="photo">
+  <a href="{{ site.url }}/images/Photos/yau1.jpg"><img src="{{ site.url }}/images/Photos/yau1.jpg" alt="With Prof. Shing-Tung Yau"></a>
+  <figcaption>With Prof. Shing-Tung Yau.</figcaption>
+</figure>
 
+<figure class="photo">
+  <a href="{{ site.url }}/images/Photos/yau2.jpg"><img src="{{ site.url }}/images/Photos/yau2.jpg" alt="Yau Contest awarding ceremony"></a>
+  <figcaption>The awarding ceremony of the Yau Contest.</figcaption>
+</figure>
 
-<br />
+## Suzhou
 
-## My Travel to Suzhou
+<figure class="photo">
+  <a href="{{ site.url }}/images/Photos/Suzhou1.jpg"><img src="{{ site.url }}/images/Photos/Suzhou1.jpg" alt="A classical Suzhou garden"></a>
+  <figcaption>A classical Suzhou garden.</figcaption>
+</figure>
 
+<figure class="photo">
+  <a href="{{ site.url }}/images/Photos/Suzhou3.jpg"><img src="{{ site.url }}/images/Photos/Suzhou3.jpg" alt="A small river in Suzhou"></a>
+  <figcaption>A small river.</figcaption>
+</figure>
 
-A classical Suzhou Garden:
+<figure class="photo">
+  <a href="{{ site.url }}/images/Photos/Suzhou4.jpg"><img src="{{ site.url }}/images/Photos/Suzhou4.jpg" alt="Suzhou food"></a>
+  <figcaption>Delicious food.</figcaption>
+</figure>
 
-![su1](/images/Photos/Suzhou1.jpg)
+<figure class="photo">
+  <a href="{{ site.url }}/images/Photos/Suzhou5.jpg"><img src="{{ site.url }}/images/Photos/Suzhou5.jpg" alt="A small island"></a>
+  <figcaption>A small island.</figcaption>
+</figure>
 
-A small river:
-![su3](/images/Photos/Suzhou3.jpg)
-Delicious food:
-
-![su4](/images/Photos/Suzhou4.jpg)
-
-A small island:
-
-![su5](/images/Photos/Suzhou5.jpg)
-
-Me at the Hanshan Temple:
-
-![su2](/images/Photos/Suzhou2.jpg)
+<figure class="photo">
+  <a href="{{ site.url }}/images/Photos/Suzhou2.jpg"><img src="{{ site.url }}/images/Photos/Suzhou2.jpg" alt="At Hanshan Temple"></a>
+  <figcaption>At the Hanshan Temple.</figcaption>
+</figure>
