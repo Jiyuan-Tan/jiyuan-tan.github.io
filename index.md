@@ -36,7 +36,7 @@ Before Stanford, I studied mathematics at Fudan University. There I worked with 
 <ul class="threads">
   <li>
     <h3>Partial identification</h3>
-    <p>When data and assumptions cannot pin down a single causal effect, they often still imply informative bounds. I build methods — neural and optimal-transport based — that compute those bounds with consistency guarantees.</p>
+    <p>When data and assumptions cannot pin down a single causal effect, they often still imply informative bounds. I build methods that compute those bounds with statistical guarantees.</p>
   </li>
   <li>
     <h3>Automating Causal Inference</h3>
