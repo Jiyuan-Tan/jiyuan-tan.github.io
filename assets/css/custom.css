@@ -48,6 +48,16 @@
    Base
    -------------------------------------------------------------------------- */
 
+/* The legacy theme predates border-box and never sets it, so padding is ADDED
+   to any width we declare. That made `.navigation-wrapper { width: 100% }` plus
+   its centering padding overflow the viewport and push the last nav links
+   off-screen. Opt the whole document in. */
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
 html {
   -webkit-text-size-adjust: 100%;
 }
