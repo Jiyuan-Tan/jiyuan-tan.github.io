@@ -41,11 +41,13 @@ At the level of **behavior**, [CausalReasoningBenchmark](https://arxiv.org/abs/2
 
 At the level of **internal mechanism**, [Bucketing the Good Apples](https://arxiv.org/abs/2605.02234) studies causal abstraction — whether a model's internal computation faithfully realizes a higher-level causal structure — and gives a method for diagnosing and repairing where that abstraction breaks down.
 
-## Ongoing: formally verified causal inference
+## Formally verified causal inference
 
-My current work brings the two lines together. I am building a **Lean-based library for causal inference**, together with a research pipeline in which AI agents propose structured causal questions, develop candidate theorems, and submit them to formal verification. The rigor of the theory then becomes a guarantee the AI systems can be held to — machine-checkable, even as AI takes on more of the reasoning.
+My current work brings the two lines together. [CausalForge](https://arxiv.org/abs/2607.22511) is an agentic framework for automated research in causal inference in which every formal statement is machine-checked in Lean 4. It has two halves: **Causalean**, a foundational Lean library for causal inference with 7,035 verified declarations, and **CausalSmith**, an autonomous pipeline in which agents propose structured causal questions, develop candidate theorems, and submit them to formal verification.
 
-The aim is to let AI assist with literature organization, theorem discovery, and proof checking, while the human retains responsibility for judgment.
+Automating research raises an evaluation problem of its own: a theorem can be perfectly verified and still fail to say what its informal abstract claims. CausalForge therefore includes a **statement audit** that checks each formal theorem against the scientific claim it is meant to express — a check that does not rely on an LLM reviewer's judgment about whether a result is correct.
+
+The resulting working papers, together with the underlying Lean code, are browsable on the [project website](https://jiyuan-tan.github.io/CausalForge/). The aim is to let AI assist with literature organization, theorem discovery, and proof checking, while the human retains responsibility for judgment.
 
 ## Other work
 
