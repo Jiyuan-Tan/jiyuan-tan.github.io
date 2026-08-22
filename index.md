@@ -53,7 +53,7 @@ Before Stanford, I studied mathematics at Fudan University. There I worked with 
 ## News
 
 <ul class="news">
-  <li><span class="date">Jul 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2607.22511">CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference</a>, with Vasilis Syrgkanis. Machine-verified working papers and the Causalean library are browsable on the <a href="https://jiyuan-tan.github.io/CausalForge/">project website</a>.</span></li>
+  <li><span class="date">Jul 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2607.22511">CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference</a>, with Vasilis Syrgkanis. Machine-verified working papers and the Causalean library are browsable on the <a href="https://jiyuan-tan.github.io/CausalSmith/">project website</a>.</span></li>
   <li><span class="date">May 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2605.02234">Bucketing the Good Apples: A Method for Diagnosing and Improving Causal Abstraction</a>, with Puyin Li, Ahmad Jabbar, Thomas Icard, and Atticus Geiger.</span></li>
   <li><span class="date">Apr 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2604.12263">Partial Identification of Policy-Relevant Treatment Effects with Instrumental Variables via Optimal Transport</a>, with Vasilis Syrgkanis and Jose Blanchet.</span></li>
   <li><span class="date">Mar 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2603.01337">Adaptive Estimation and Inference in Conditional Moment Models via the Discrepancy Principle</a>, with Vasilis Syrgkanis.</span></li>

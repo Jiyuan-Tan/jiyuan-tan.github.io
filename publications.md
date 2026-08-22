@@ -18,10 +18,10 @@ Also on <a href="https://scholar.google.com/citations?user={{ site.owner.google_
   <li class="pub">
     <span class="venue venue-preprint">Preprint<br>2026</span>
     <div>
-      <span class="pub-title">CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference</span>
+      <span class="pub-title">CausalSmith: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference</span>
       <span class="pub-authors"><span class="me">Jiyuan Tan</span>*, Vasilis Syrgkanis</span>
-      <span class="pub-note">Couples language models with machine-checked proofs: Causalean, a Lean library for causal inference with 7,035 verified declarations, and CausalSmith, an autonomous pipeline that proposes and formalizes new results, with a statement audit that checks each formal theorem against its informal claim.</span>
-      <span class="pub-links"><a href="https://arxiv.org/abs/2607.22511" target="_blank" rel="noopener">arXiv</a><a href="https://jiyuan-tan.github.io/CausalForge/" target="_blank" rel="noopener">Website</a><a href="https://github.com/Jiyuan-Tan/CausalForge" target="_blank" rel="noopener">Code</a></span>
+      <span class="pub-note">Couples language models with machine-checked proofs: Causalean, a Lean library for causal inference with 7,035 verified declarations, and CausalForge, an autonomous pipeline that proposes and formalizes new results, with a statement audit that checks each formal theorem against its informal claim.</span>
+      <span class="pub-links"><a href="https://arxiv.org/abs/2607.22511" target="_blank" rel="noopener">arXiv</a><a href="https://jiyuan-tan.github.io/CausalSmith/" target="_blank" rel="noopener">Website</a><a href="https://github.com/Jiyuan-Tan/CausalSmith" target="_blank" rel="noopener">Code</a></span>
     </div>
   </li>
 
