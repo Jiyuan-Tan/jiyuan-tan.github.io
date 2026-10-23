@@ -49,6 +49,8 @@ Automating research raises an evaluation problem of its own: a theorem can be pe
 
 The resulting working papers, together with the underlying Lean code, are browsable on the [project website](https://jiyuan-tan.github.io/CausalSmith/). The aim is to let AI assist with literature organization, theorem discovery, and proof checking, while the human retains responsibility for judgment.
 
+[PaperFormalizer](https://paperformalizer.org/) turns the same machinery on papers that already exist. It reads each theorem, lemma and assumption of a paper alongside the paper's own proof, proposes a revision wherever a statement does not hold as written, leaves every revision to the author's decision, and proves the resulting statements in Lean 4. Lean-verified versions of my papers on [neural causal partial identification](https://paperformalizer.org/papers/tbs_neural_causal_pi/), [policy-relevant treatment effects via optimal transport](https://paperformalizer.org/papers/tbs_prte_optimal_transport/) and [treatment effects in extreme data](https://paperformalizer.org/papers/tbs_extreme_effects/) are on its [website](https://paperformalizer.org/); the [code](https://github.com/Jiyuan-Tan/PaperFormalizer) is open.
+
 ## Other work
 
 Some questions do not belong to any of the three threads above.

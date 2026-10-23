@@ -41,7 +41,7 @@ Also on <a href="https://scholar.google.com/citations?user={{ site.owner.google_
       <span class="pub-title">Partial Identification of Policy-Relevant Treatment Effects with Instrumental Variables via Optimal Transport</span>
       <span class="pub-authors"><span class="me">Jiyuan Tan</span>*, Vasilis Syrgkanis, Jose Blanchet</span>
       <span class="pub-note">Casts partial identification with instrumental variables as an optimal-transport problem, giving a tractable estimator with finite-sample guarantees.</span>
-      <span class="pub-links"><a href="https://arxiv.org/abs/2604.12263" target="_blank" rel="noopener">arXiv</a></span>
+      <span class="pub-links"><a href="https://arxiv.org/abs/2604.12263" target="_blank" rel="noopener">arXiv</a><a href="https://paperformalizer.org/papers/tbs_prte_optimal_transport/" target="_blank" rel="noopener">Lean-verified</a></span>
     </div>
   </li>
 
@@ -90,7 +90,7 @@ Also on <a href="https://scholar.google.com/citations?user={{ site.owner.google_
       <span class="pub-title">Estimation of Treatment Effects in Extreme and Unobserved Data</span>
       <span class="pub-authors"><span class="me">Jiyuan Tan</span>*, Jose Blanchet, Vasilis Syrgkanis</span>
       <span class="pub-note">An extreme-value estimator for treatment effects beyond the observed support of the data, with consistency guarantees and validation on synthetic and real data.</span>
-      <span class="pub-links"><a href="https://arxiv.org/abs/2506.14051" target="_blank" rel="noopener">arXiv</a></span>
+      <span class="pub-links"><a href="https://arxiv.org/abs/2506.14051" target="_blank" rel="noopener">arXiv</a><a href="https://paperformalizer.org/papers/tbs_extreme_effects/" target="_blank" rel="noopener">Lean-verified</a></span>
     </div>
   </li>
 
@@ -100,7 +100,7 @@ Also on <a href="https://scholar.google.com/citations?user={{ site.owner.google_
       <span class="pub-title">Consistency of Neural Causal Partial Identification</span>
       <span class="pub-authors"><span class="me">Jiyuan Tan</span>, Jose Blanchet, Vasilis Syrgkanis</span>
       <span class="pub-note">A generative method for computing partial-identification bounds under structural causal constraints, with a consistency proof and an analysis of the model class's approximation power.</span>
-      <span class="pub-links"><a href="https://arxiv.org/abs/2405.15673" target="_blank" rel="noopener">arXiv</a></span>
+      <span class="pub-links"><a href="https://arxiv.org/abs/2405.15673" target="_blank" rel="noopener">arXiv</a><a href="https://paperformalizer.org/papers/tbs_neural_causal_pi/" target="_blank" rel="noopener">Lean-verified</a></span>
     </div>
   </li>
 
@@ -121,6 +121,20 @@ Also on <a href="https://scholar.google.com/citations?user={{ site.owner.google_
       <span class="pub-authors">Han Zhong*, Wei Xiong*, <span class="me">Jiyuan Tan</span>*, Liwei Wang, Tong Zhang, Zhaoran Wang, Zhuoran Yang</span>
       <span class="pub-note">Characterizes the data coverage needed to learn Nash equilibria from offline Markov-game data, with a pessimistic algorithm attaining minimax-optimal sample complexity. Spotlight at the ICLR 2022 Workshop on Gamification and Multiagent Solutions.</span>
       <span class="pub-links"><a href="https://arxiv.org/abs/2202.07511" target="_blank" rel="noopener">arXiv</a></span>
+    </div>
+  </li>
+</ul>
+
+## Software
+
+<ul class="pub-list">
+  <li class="pub">
+    <span class="venue venue-preprint">Software<br>2026</span>
+    <div>
+      <span class="pub-title">PaperFormalizer</span>
+      <span class="pub-authors"><span class="me">Jiyuan Tan</span></span>
+      <span class="pub-note">An author-in-the-loop tool that turns a mathematical paper into a Lean-verified version: it checks each theorem, lemma and assumption against the paper's own proof, proposes revisions the author decides on, and proves the statements in Lean 4.</span>
+      <span class="pub-links"><a href="https://paperformalizer.org/" target="_blank" rel="noopener">Website</a><a href="https://github.com/Jiyuan-Tan/PaperFormalizer" target="_blank" rel="noopener">Code</a></span>
     </div>
   </li>
 </ul>
