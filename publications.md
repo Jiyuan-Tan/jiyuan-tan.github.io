@@ -41,7 +41,7 @@ Also on <a href="https://scholar.google.com/citations?user={{ site.owner.google_
       <span class="pub-title">Partial Identification of Policy-Relevant Treatment Effects with Instrumental Variables via Optimal Transport</span>
       <span class="pub-authors"><span class="me">Jiyuan Tan</span>*, Vasilis Syrgkanis, Jose Blanchet</span>
       <span class="pub-note">Casts partial identification with instrumental variables as an optimal-transport problem, giving a tractable estimator with finite-sample guarantees.</span>
-      <span class="pub-links"><a href="https://arxiv.org/abs/2604.12263" target="_blank" rel="noopener">arXiv</a><a href="https://paperformalizer.org/papers/tbs_prte_optimal_transport/" target="_blank" rel="noopener">Lean-verified</a></span>
+      <span class="pub-links"><a href="https://arxiv.org/abs/2604.12263" target="_blank" rel="noopener">arXiv</a><a href="{{ site.url }}/files/prte-ot-online-appendix.pdf" target="_blank" rel="noopener">Online Appendix</a><a href="https://paperformalizer.org/papers/tbs_prte_optimal_transport/" target="_blank" rel="noopener">Lean-verified</a></span>
     </div>
   </li>
 
